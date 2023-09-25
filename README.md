@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m @SimulationOfMario
 - 👀 I’m interested in Game Design
-- 📖 I'm studying Software Engineering
+- 📖 I'm studying Software Engineering at ETSI, UMA
 - ⚙ I’m currently learning Godot, Python and advanced C#
 - 💜 My other half is @PaulaAtencia 
 - ✒ Programming languages that I know: C#, C++, Haskell, Java & C
