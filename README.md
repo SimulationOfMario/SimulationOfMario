@@ -6,7 +6,7 @@
 - ✒ Programming languages that I know:
     - 1️⃣ | C++ 
     - 2️⃣ | Java☕
-    - 3️⃣ | Haskell[λ]
+    - 3️⃣ | Haskell
     - 4️⃣ | C 
     - 5️⃣ | C#
 <!---
