@@ -5,9 +5,13 @@
 - 💜 My other half is @PaulaAtencia 
 - ✒ Programming languages that I know:
     - 1️⃣ | C++
+    - 
     - 2️⃣ | Java
+    - 
     - 3️⃣ | Haskell
+    - 
     - 4️⃣ | C
+    - 
     - 5️⃣ | C#
 <!---
 SimulationOfMario/SimulationOfMario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
