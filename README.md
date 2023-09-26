@@ -4,6 +4,7 @@
 - ⚙ I’m currently learning Godot, Python and advanced C#
 - 💜 My other half is @PaulaAtencia 
 - ✒ Programming languages that I know:
+
 1️⃣ | C++
 2️⃣ | Java
 3️⃣ | Haskell
