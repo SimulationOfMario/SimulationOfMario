@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @SimulationOfMario
+# 👋🏻 Hi, I’m @SimulationOfMario
 - 👀 I’m interested in Game Design
 - 📖 I'm studying Software Engineering at ETSI, UMA
 - 💜 My other half is @PaulaAtencia 
