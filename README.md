@@ -6,7 +6,7 @@
 - ✒ Programming languages that I learned in order:
     - 1️⃣ | C++        : To learn the basics of programming, but I must learn its full potential
     - 2️⃣ | Java       : To learn OOP and concurrence, it is the language that I have seen the most of it
-    - 3️⃣ | Haskell    : To learn functional programming and data structures, I am currently learning it in depth because it is one of my favorites
+    - 3️⃣ | Haskell    : To learn functional programming and data structures, I am currently learning it in depth
     - 4️⃣ | C          : To learn pointers, code in Linux for the first time and learn a language that allows low-level control
     - 5️⃣ | C#         : To learn specially for game design
 
