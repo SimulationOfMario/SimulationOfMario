@@ -12,7 +12,7 @@
 - 4️⃣ | C          : To learn pointers, code in Linux for the first time and learn a language that allows low-level control
 - 5️⃣ | C#         : To learn specially for game design
 - 6️⃣ | JavaScript : To learn web development
-# 💡 Other different purpose languages
+# 💡 Other languages of different purpose
 - ⭐ | HTML
 - ⭐ | CSS
 - ⭐ | SQL   : Using MySQL and SQL Developer
