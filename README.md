@@ -1,5 +1,5 @@
 # 🎇 Welcome, I’m @SimulationOfMario 🎇
-- 👀 I’m mainly interested in Game Design
+- 👀 I’m mainly interested in create videogames
 - 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
 - 💜 My other half is [@PaulaAtencia](https://github.com/PaulaAtencia)
 # 📚 What I'm currently learning on my own 📚
