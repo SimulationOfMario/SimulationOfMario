@@ -5,7 +5,7 @@
 
 # 📚 What I'm currently learning on my own 📚
 - 🧮 Reading [Real World Haskell Book](https://book.realworldhaskell.org/)
-- ⚙ [Godot](https://godotengine.org/) (because I'm moving on from Unity)
+- ⚙ [Godot](https://godotengine.org/)
 
 # 🧠 High-Level Programming languages that I learned in order 
 - 1️⃣ | C++        : To learn the basics of programming, but I must learn its full potential
