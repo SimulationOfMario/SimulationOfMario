@@ -13,7 +13,7 @@
 - 3️⃣ | Haskell    : To learn functional programming and data structures, I am currently learning it in depth
 - 4️⃣ | C          : To learn pointers, code in Linux for the first time and learn a language that allows low-level control
 - 5️⃣ | C#         : To learn specially for game design
-- 6️⃣ | JavaScript : To learn web development
+- 6️⃣ | JavaScript : To learn web development (also using React)
 
 # 💡 Other languages of different purpose
 - ⭐ | HTML
