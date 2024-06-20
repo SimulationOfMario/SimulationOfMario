@@ -1,5 +1,5 @@
 # 🎇 Welcome, I’m @SimulationOfMario 🎇
-- 👀 I’m mainly interested in create videogames
+- 👀 I’m mainly interested in create videogames and modding!
 - 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
 - 💜 My other half is [@PaulaAtencia](https://github.com/PaulaAtencia)
 
@@ -7,12 +7,16 @@
 - 🧮 Reading [Real World Haskell Book](https://book.realworldhaskell.org/)
 - ⚙ [Godot](https://godotengine.org/)
 
+# 🏆 My Projects 🏆
+- ☕ (My Life As A...)[https://wrenchstudio.000webhostapp.com/index.html#home-section] : This project was created in a group of 8 people using Unity!
+- 🎰 (PokéRoll)[https://pokeroll.es) : This project is created by me with four friends using React!
+
 # 🧠 High-Level Programming languages that I learned in order 
 - 1️⃣ | C++        : To learn the basics of programming, but I must learn its full potential
 - 2️⃣ | Java       : To learn OOP and concurrence, it is the language that I have seen the most of it
 - 3️⃣ | Haskell    : To learn functional programming and data structures, I am currently learning it in depth
 - 4️⃣ | C          : To learn pointers, code in Linux for the first time and learn a language that allows low-level control
-- 5️⃣ | C#         : To learn specially for game design
+- 5️⃣ | C#         : To learn specially for create videogames (Unity & Godot)
 - 6️⃣ | JavaScript : To learn web development (also using React)
 
 # 💡 Other languages of different purpose
