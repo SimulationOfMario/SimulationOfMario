@@ -12,12 +12,15 @@
 - 🎰 [PokéRoll](https://pokeroll.es) : This project is created by me with four friends using React!
 
 # 🧠 High-Level Programming languages that I learned in order 
-- 1️⃣ | C++        : To learn the basics of programming, but I must learn its full potential
+- 1️⃣ | C++        : To learn the basics of programming, but I must learn its full potential 
 - 2️⃣ | Java       : To learn OOP and concurrence, it is the language that I have seen the most of it
 - 3️⃣ | Haskell    : To learn functional programming and data structures, I am currently learning it in depth
 - 4️⃣ | C          : To learn pointers, code in Linux for the first time and learn a language that allows low-level control
 - 5️⃣ | C#         : To learn specially for create videogames (Unity & Godot)
 - 6️⃣ | JavaScript : To learn web development (also using React)
+![ISO_C++_Logo svg](https://github.com/SimulationOfMario/SimulationOfMario/assets/124881638/a74617e0-c878-4a0b-97e4-7cf7aa9e9a4b)
+![java-logo](https://github.com/SimulationOfMario/SimulationOfMario/assets/124881638/c9a11abc-ac4b-4317-a809-33c24d8311ed)
+
 
 # 💡 Other languages of different purpose
 - ⭐ | HTML
