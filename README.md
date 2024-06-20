@@ -18,9 +18,15 @@
 - 4️⃣ | C          : To learn pointers, code in Linux for the first time and learn a language that allows low-level control
 - 5️⃣ | C#         : To learn specially for create videogames (Unity & Godot)
 - 6️⃣ | JavaScript : To learn web development (also using React)
-![ISO_C++_Logo svg](https://github.com/SimulationOfMario/SimulationOfMario/assets/124881638/a74617e0-c878-4a0b-97e4-7cf7aa9e9a4b)
-![java-logo](https://github.com/SimulationOfMario/SimulationOfMario/assets/124881638/c9a11abc-ac4b-4317-a809-33c24d8311ed)
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 1vw;">
+  <img alt="C++" width="50" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png"/>
+  <img alt="Java" width="60" height="auto" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png"/>
+  <img alt="Haskell" width="75" height="auto" src="https://www.haskell.org/ghcup/haskell_logo.png"/>
+  <img alt="C" width="55" height="auto" src="https://wallpapercave.com/wp/wp4521293.png"/>
+  <img alt="C#" width="60" height="auto" src="https://iconape.com/wp-content/png_logo_vector/c.png"/>
+  <img alt="JavaScript" width="60" height="auto" src="https://logosvector.net/wp-content/uploads/2015/07/JavaScript_logo.png"/>
+</div>
 
 # 💡 Other languages of different purpose
 - ⭐ | HTML
