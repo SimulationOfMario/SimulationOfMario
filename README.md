@@ -8,7 +8,7 @@
 - ⚙ [Godot](https://godotengine.org/)
 
 # 🏆 My Projects 🏆
-- ☕ [My Life As A...](https://wrenchstudio.000webhostapp.com/index.html#home-section) : This project was created/led in a group of 8 people using Unity!
+- ☕ [My Life As A...](https://wrenchstudio.000webhostapp.com/index.html#home-section) : This project was created/led by me in a group of 8 people using Unity!
 - 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
 
 # 🧠 High-Level Programming languages that I learned in order 
