@@ -4,8 +4,8 @@
 - 💜 My other half is [@PaulaAtencia](https://github.com/PaulaAtencia)
 
 # 📚 What I'm currently learning on my own 📚
-- 🧮 Reading [Real World Haskell Book](https://book.realworldhaskell.org/)
-- ⚙ [Godot](https://godotengine.org/)
+- 🧮 Reading [Real World Haskell Book](https://book.realworldhaskell.org/) 
+- ⚙ [Godot](https://godotengine.org/) (Going well!)
 
 # 🏆 My Projects 🏆
 - ☕ [My Life As A...](https://wrenchstudio.000webhostapp.com/index.html#home-section) : This project was created/led by me in a group of 8 people using Unity!
@@ -35,7 +35,7 @@
 - ⭐ | SQL   : For MySQL and SQL Developer
 - ⭐ | [USE](https://github.com/useocl/use)
 
-# 🧰 Some tools that I use/used
+# 🧰 Some programs that I use/used
 - ⚙️ [VSCode](https://code.visualstudio.com/)
 - ⚙️ [Unity](https://unity.com/es)
 - ⚙️ [MySQL](https://www.mysql.com/)
