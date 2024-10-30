@@ -22,7 +22,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SimulationOfMario&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=SimulationOfMario&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimulationOfMario&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimulationOfMario&radius=20&theme=modern-lilac&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
