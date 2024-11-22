@@ -1,7 +1,6 @@
 # 🎇 Welcome, I’m SimulationOfMario 🎇
 - 👀 I’m mainly interested in create videogames and modding!
 - 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
-- 💜 My other half is [@PaulaAtencia](https://github.com/PaulaAtencia)
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/6e224bbf-9099-4a7b-adc4-1ec5226ed7ba" width="150">
