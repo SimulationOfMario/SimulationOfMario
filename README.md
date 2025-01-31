@@ -11,8 +11,10 @@
 </div>
 
 ## 📚 What I'm currently learning on my own 📚
-- 🧮 Reading [Real World Haskell Book](https://book.realworldhaskell.org/) 
+- ⛏️ [Minecraft Fabric Modding](https://fabricmc.net/)
 - ⚙ [Godot](https://godotengine.org/) (Going well!)
+- 🧮 Reading [Real World Haskell Book](https://book.realworldhaskell.org/) 
+
 
 ## 🏆 My Projects 🏆
 - ☕ [My Life As A...](https://wrenchstudio.000webhostapp.com/index.html#home-section) : This project was created/led by me in a group of 8 people using Unity! - Wrench Studio (pre-Magnet Studio)
