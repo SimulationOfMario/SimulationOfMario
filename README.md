@@ -3,11 +3,11 @@
 - 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/6e224bbf-9099-4a7b-adc4-1ec5226ed7ba" width="150">
-  <img src="https://github.com/user-attachments/assets/9c4a2408-6c9a-45db-a503-cc5e804853c3" width="150">
-  <img src="https://github.com/user-attachments/assets/f08717e3-b4e8-480a-9fc7-e483d5adbed0" width="150">
-  <img src="https://github.com/user-attachments/assets/6f1b11a5-8b96-49df-b0cf-dbeae19912c0" width="150">
-  <img src="https://github.com/user-attachments/assets/e044c1fa-956d-4203-8638-2210eff0a8c0" width="150">
+  <img src="https://github.com/user-attachments/assets/6e224bbf-9099-4a7b-adc4-1ec5226ed7ba" width="150" alt="Outer Wilds">
+  <img src="https://github.com/user-attachments/assets/9c4a2408-6c9a-45db-a503-cc5e804853c3" width="150" alt="Call of Duty Black Ops 3 Zombies">
+  <img src="https://github.com/user-attachments/assets/f08717e3-b4e8-480a-9fc7-e483d5adbed0" width="150" alt="Minecraft Aether">
+  <img src="https://github.com/user-attachments/assets/6f1b11a5-8b96-49df-b0cf-dbeae19912c0" width="150" alt="Crash Bandicoot N.Sane Trilogy">
+  <img src="https://github.com/user-attachments/assets/e044c1fa-956d-4203-8638-2210eff0a8c0" width="150" alt="Geomtry Dash: Black Blizzard Level">
 </div>
 
 ## 📚 What I'm currently learning on my own 📚
