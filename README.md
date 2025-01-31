@@ -15,8 +15,9 @@
 - ⚙ [Godot](https://godotengine.org/) (Going well!)
 
 ## 🏆 My Projects 🏆
-- ☕ [My Life As A...](https://wrenchstudio.000webhostapp.com/index.html#home-section) : This project was created/led by me in a group of 8 people using Unity!
-- 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
+- ☕ [My Life As A...](https://wrenchstudio.000webhostapp.com/index.html#home-section) : This project was created/led by me in a group of 8 people using Unity! - Wrench Studio (pre-Magnet Studio)
+- 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React! - Magnet Studio
+- 📰 [laWiki](https://lawiki.es/) : This project was created/led by me in a group of 6 people using NextJS, Express & MongoDB! - Magnet Studio
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SimulationOfMario&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph" />
