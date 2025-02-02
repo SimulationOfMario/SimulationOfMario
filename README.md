@@ -28,25 +28,28 @@
 </div>
 
 ## 🧠 Programming languages 
-- 1️⃣ | C++        : To learn the basics of programming, but I must learn its full potential 
+- 1️⃣ | C++        : To learn the basics of programming & arduino, but I must learn its full potential 
 - 2️⃣ | Java       : To learn OOP and concurrence, it is the language that I have seen the most of it
 - 3️⃣ | Haskell    : To learn functional programming and data structures, I am currently learning it in depth
-- 4️⃣ | C          : To learn pointers, code in Linux for the first time and learn a language that allows low-level control
+- 4️⃣ | C          : To learn pointers, code in Linux for the first time (creating a shell) and learn a language that allows low-level control
 - 5️⃣ | C#         : To learn specially for create videogames (Unity & Godot)
-- 6️⃣ | JavaScript : To learn web development (also using React)
+- 6️⃣ | JavaScript : To learn web development (also using React and Express)
+- 7️⃣ | TypeScript : To learn web development (also using NextJS)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 1vw;">
-  <img alt="C#" width="60" height="auto" src="https://iconape.com/wp-content/png_logo_vector/c.png"/>
-  <img alt="Java" width="60" height="auto" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png"/>
-  <img alt="Haskell" width="75" height="auto" src="https://www.haskell.org/ghcup/haskell_logo.png"/>
-  <img alt="JavaScript" width="60" height="auto" src="https://logosvector.net/wp-content/uploads/2015/07/JavaScript_logo.png"/>
-  <img alt="C" width="55" height="auto" src="https://wallpapercave.com/wp/wp4521293.png"/>
-  <img alt="C++" width="50" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png"/>
+  <img alt="C#" title="C#" width="60" height="auto" src="https://github.com/user-attachments/assets/55b60394-3350-4bac-9cab-f85f64152981"/>
+  <img alt="Java" title="Java" width="60" height="auto" src="https://github.com/user-attachments/assets/690aeee9-e07b-4252-9895-20cd48469f9b"/>
+  <img alt="Haskell" title="Haskell" width="75" height="auto" src="https://github.com/user-attachments/assets/33b0e23d-8b62-40e8-92d9-7efd1e750867"/>
+  <img alt="JavaScript" title="JavaScript" width="60" height="auto" src="https://github.com/user-attachments/assets/8e3bcfd2-4e1b-4d68-94cb-6fe044fac8d9"/>
+  <img alt="TypeScript" title="TypeScript" width="60" height="auto" src="https://github.com/user-attachments/assets/35a8b780-edde-4df1-8c91-4e2c5541f24a"/>
+  <img alt="C" title="C" width="55" height="auto" src="https://github.com/user-attachments/assets/656edb3c-9055-4076-9df4-5bbbe1933619"/>
+  <img alt="C++" title="C++" width="50" height="auto" src="https://github.com/user-attachments/assets/3e11f89b-fd8a-4b2a-ae64-44b60cb82632"/>
 </div>
 
 ## 💡 Other languages
 - | HTML
 - | CSS
+- | XML
 - | ARM   : Yes! I learned a bit of assembly in my career!
 - | SQL   : For [MySQL](https://www.mysql.com/) and SQL Developer
 - | NoSQL : For [MongoDB](https://www.mongodb.com)
