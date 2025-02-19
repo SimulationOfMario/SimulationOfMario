@@ -28,17 +28,17 @@
 </div>
 
 ## 🧠 Programming languages 
-- 1️⃣ | C++        : To learn the basics of programming & arduino, but I must learn its full potential 
-- 2️⃣ | Java       : To learn OOP and concurrence, it is the language that I have seen the most of it
-- 3️⃣ | Haskell    : To learn functional programming and data structures, I am currently learning it in depth
-- 4️⃣ | C          : To learn pointers, code in Linux for the first time (creating a shell) and learn a language that allows low-level control
-- 5️⃣ | C#         : To learn specially for create videogames (Unity & Godot)
-- 6️⃣ | JavaScript : To learn web development (also using React and Express)
-- 7️⃣ | TypeScript : To learn web development (also using NextJS)
+- ☕ | Java       : To learn OOP and concurrence, it is the language that I have seen the most of it.
+- 🟣 | C#         : To learn specially for create videogames (Unity & Godot).
+- 🟪 | Haskell    : To learn functional programming and data structures, I am currently learning it in depth.
+- 🟨 | JavaScript : To learn web development (also using React and Express).
+- 🟦 | TypeScript : To learn web development (also using NextJS).
+- 🔵 | C          : To learn pointers, code in Linux for the first time (creating a shell) and learn a language that allows low-level control.
+- 🔷 | C++        : To learn the basics of programming (my first lang) & arduino, but I must learn its full potential.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 1vw;">
-  <img alt="C#" title="C#" width="60" height="auto" src="https://github.com/user-attachments/assets/55b60394-3350-4bac-9cab-f85f64152981"/>
   <img alt="Java" title="Java" width="60" height="auto" src="https://github.com/user-attachments/assets/690aeee9-e07b-4252-9895-20cd48469f9b"/>
+  <img alt="C#" title="C#" width="60" height="auto" src="https://github.com/user-attachments/assets/55b60394-3350-4bac-9cab-f85f64152981"/>
   <img alt="Haskell" title="Haskell" width="75" height="auto" src="https://github.com/user-attachments/assets/33b0e23d-8b62-40e8-92d9-7efd1e750867"/>
   <img alt="JavaScript" title="JavaScript" width="60" height="auto" src="https://github.com/user-attachments/assets/8e3bcfd2-4e1b-4d68-94cb-6fe044fac8d9"/>
   <img alt="TypeScript" title="TypeScript" width="60" height="auto" src="https://github.com/user-attachments/assets/35a8b780-edde-4df1-8c91-4e2c5541f24a"/>
