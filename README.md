@@ -11,8 +11,8 @@
 </div>
 
 ## 📚 What I'm currently learning on my own 📚
+- ⚙ [Godot](https://godotengine.org/), to make my own game for my FDP!
 - ⛏️ [Minecraft Fabric Modding](https://fabricmc.net/)
-- ⚙ [Godot](https://godotengine.org/) (Going well!)
 - 🧮 Reading [Real World Haskell Book](https://book.realworldhaskell.org/) 
 
 
