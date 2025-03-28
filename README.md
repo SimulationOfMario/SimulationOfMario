@@ -17,7 +17,7 @@
 
 
 ## 🏆 My Projects 🏆
-- ☕ [My Life As A...](https://wrenchstudio.000webhostapp.com/index.html#home-section) : This project was created/led by me in a group of 8 people using Unity!
+- ☕ [My Life As A...](https://youtu.be/v6n0uqqxxk4?si=58_5z0NOVJnwoeUn) : This project was created/led by me in a group of 8 people using Unity!
 - 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
 - 📰 [laWiki](https://lawiki.es/) : This project was created/led by me in a group of 6 people using NextJS, Express & MongoDB!
 
@@ -94,9 +94,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
