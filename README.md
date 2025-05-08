@@ -1,4 +1,4 @@
-# 🎇 Welcome, I’m SimulationOfMario 🎇
+# 🎇 Welcome, I’m Mario 🎇
 - 👀 I’m mainly interested in create videogames and modding!
 - 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
 
