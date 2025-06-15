@@ -10,18 +10,21 @@
   <img src="https://github.com/user-attachments/assets/e044c1fa-956d-4203-8638-2210eff0a8c0" width="150" title="Geomtry Dash: Black Blizzard Level">
 </div>
 
+<br/>
 
 ## 📚 What I'm currently doing 📚
 - ⚙ Making my own game in [Godot](https://godotengine.org/) for my FDP!
 - 🚀 Making a game in [Unity](https://unity.com/) with a [friend](https://github.com/CreatorBeastGD)!
 - ⛏️ [Minecraft Fabric Modding](https://fabricmc.net/)
 
+<br/>
 
 ## 🏆 My Projects 🏆
 - ☕ [My Life As A...](https://youtu.be/v6n0uqqxxk4?si=58_5z0NOVJnwoeUn) : This project was created/led by me in a group of 8 people using Unity!
 - 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
 - 📰 [laWiki](https://lawiki.es/) : This project was created/led by me in a group of 6 people using NextJS, Express & MongoDB!
 
+<br/>
 
 ## 🧠 Languages 🧠
 <div style="display: flex; justify-content: center; align-items: center; gap: 1vw;">
@@ -32,6 +35,8 @@
   <img alt="TypeScript" title="TypeScript" width="60" height="auto" src="https://github.com/user-attachments/assets/35a8b780-edde-4df1-8c91-4e2c5541f24a"/>
   <img alt="C" title="C" width="55" height="auto" src="https://github.com/user-attachments/assets/656edb3c-9055-4076-9df4-5bbbe1933619"/>
 </div>
+
+<br/>
 
 ---
 <img src="https://visitor-badge.laobi.icu/badge?page_id=SimulationOfMario.SimulationOfMario&left_color=darkmagenta&right_color=orchid&left_text=Travelers:"  />
