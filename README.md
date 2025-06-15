@@ -1,6 +1,6 @@
 # 🎇 Welcome, I’m Mario 🎇
 ### 👀 I’m mainly interested in create videogames and modding!
-#### 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
+### 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/6e224bbf-9099-4a7b-adc4-1ec5226ed7ba" width="150" title="Outer Wilds">
@@ -13,16 +13,17 @@
 <br/>
 
 ## 📚 What I'm currently doing 📚
-- ⚙ Making my own game in [Godot](https://godotengine.org/) for my FDP!
-- 🚀 Making a game in [Unity](https://unity.com/) with a [friend](https://github.com/CreatorBeastGD)!
-- ⛏️ [Minecraft Fabric Modding](https://fabricmc.net/)
+- ### ⚙ Making my own game in [Godot](https://godotengine.org/) for my FDP!
+- ### 🚀 Making a game in [Unity](https://unity.com/) with a [friend](https://github.com/CreatorBeastGD)!
+- ### ⛏️ [Minecraft Fabric Modding](https://fabricmc.net/)
 
 <br/>
 
 ## 🏆 My Projects 🏆
-- ☕ [My Life As A...](https://youtu.be/v6n0uqqxxk4?si=58_5z0NOVJnwoeUn) : This project was created/led by me in a group of 8 people using Unity!
-- 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
-- 📰 [laWiki](https://lawiki.es/) : This project was created/led by me in a group of 6 people using NextJS, Express & MongoDB!
+- ### 🔥 [Better Nether Ambient Mobs](https://github.com/SimulationOfMario/BetterNether-Ambient-Mobs)
+- ### ☕ [My Life As A...](https://youtu.be/v6n0uqqxxk4?si=58_5z0NOVJnwoeUn) : This project was created/led by me in a group of 8 people using Unity!
+- ### 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
+- ### 📰 [laWiki](https://lawiki.es/) : This project was created/led by me in a group of 6 people using NextJS, Express & MongoDB!
 
 <br/>
 
