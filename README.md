@@ -77,6 +77,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 1vw;" align="center">
   <img alt="Godot" title="Godot" width="60" height="auto" src="https://github.com/user-attachments/assets/b72c7602-7a33-454a-8728-21d949765768"/>
   <img alt="Unity" title="Unity" width="60" height="auto" src="https://github.com/user-attachments/assets/ef631fdf-7d50-4a08-99bb-9a8e14ead2fa"/>
+  <img alt="Krita" title="Krita" width="60" height="auto" src="https://github.com/user-attachments/assets/167ce1b5-9e7a-4dfb-a6e6-0e60e259087a"/>
   <img alt="React" title="React" width="65" height="auto" src="https://github.com/user-attachments/assets/84990063-53df-4248-8706-56881bf5a0d7"/>
   <img alt="MongoDB" title="MongoDB" width="55" height="auto" src="https://github.com/user-attachments/assets/a4917024-dd17-47de-b031-4c3994122950"/>
   <img alt="MySQL" title="MySQL" width="55" height="auto" src="https://github.com/user-attachments/assets/fbed04ba-8f37-4eee-99d8-41baf31f6c76"/>
