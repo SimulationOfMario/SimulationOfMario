@@ -1,6 +1,14 @@
-# 🎇 Welcome, I’m Mario 🎇
-### 👀 I’m mainly interested in create videogames and modding!
-### 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
+<div align="center">
+  <h1>
+    🎇 Welcome, I’m SimulationOfMario 🎇
+  </h1>
+  <h3>
+    👀 I’m mainly interested in create videogames and modding!
+  </h3>
+  <h3>
+    🎓 Graduated in Software Engineering from <a href="https://www.uma.es/etsi-informatica/">ETSI, University of Málaga (UMA)</a>
+  </h3>
+</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6e224bbf-9099-4a7b-adc4-1ec5226ed7ba" width="150" title="Outer Wilds">
@@ -18,14 +26,24 @@
 
 <br/>
 
-## 📚 What I'm currently doing 📚
+<div align="center">
+  <h2>
+    📚 What I'm currently doing 📚
+  </h2>
+</div>
+
 - ### ⚙ Making my own game in [Godot](https://godotengine.org/) for my FDP!
 - ### 🚀 Making a game in [Unity](https://unity.com/) with a [friend](https://github.com/CreatorBeastGD)! Check [here](https://github.com/Hap-Studio) for more!
 - ### ⛏️ [Minecraft Fabric Modding](https://fabricmc.net/)
 
 <br/>
 
-## 🏆 My Projects 🏆
+<div align="center">
+  <h2>
+    🏆 My Projects 🏆
+  </h2>
+</div>
+
 - ### 🔥 [Better Nether Ambient Mobs](https://github.com/SimulationOfMario/BetterNether-Ambient-Mobs)
 - ### ☕ [My Life As A...](https://youtu.be/v6n0uqqxxk4?si=58_5z0NOVJnwoeUn) : This project was created/led by me in a group of 8 people using Unity!
 - ### 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
@@ -33,24 +51,48 @@
 
 <br/>
 
-## 🧠 Languages 🧠
-<div style="display: flex; justify-content: center; align-items: center; gap: 1vw;">
+<div align="center">
+  <h2>
+    🧠 Languages 🧠
+  </h2>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 1vw;" align="center">
   <img alt="Java" title="Java" width="60" height="auto" src="https://github.com/user-attachments/assets/690aeee9-e07b-4252-9895-20cd48469f9b"/>
   <img alt="C#" title="C#" width="60" height="auto" src="https://github.com/user-attachments/assets/55b60394-3350-4bac-9cab-f85f64152981"/>
   <img alt="Haskell" title="Haskell" width="75" height="auto" src="https://github.com/user-attachments/assets/33b0e23d-8b62-40e8-92d9-7efd1e750867"/>
-  <img alt="JavaScript" title="JavaScript" width="60" height="auto" src="https://github.com/user-attachments/assets/8e3bcfd2-4e1b-4d68-94cb-6fe044fac8d9"/>
   <img alt="TypeScript" title="TypeScript" width="60" height="auto" src="https://github.com/user-attachments/assets/35a8b780-edde-4df1-8c91-4e2c5541f24a"/>
+  <img alt="JavaScript" title="JavaScript" width="60" height="auto" src="https://github.com/user-attachments/assets/8e3bcfd2-4e1b-4d68-94cb-6fe044fac8d9"/>
   <img alt="C" title="C" width="55" height="auto" src="https://github.com/user-attachments/assets/656edb3c-9055-4076-9df4-5bbbe1933619"/>
 </div>
 
 <br/>
 
-## 🛠️ Tools 🛠️
-<div style="display: flex; justify-content: center; align-items: center; gap: 1vw;">
-  Wait!
+<div align="center">
+  <h2>
+    🛠️ Tools 🛠️
+  </h2>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 1vw;" align="center">
+  <img alt="Godot" title="Godot" width="60" height="auto" src="https://github.com/user-attachments/assets/b72c7602-7a33-454a-8728-21d949765768"/>
+  <img alt="Unity" title="Unity" width="60" height="auto" src="https://github.com/user-attachments/assets/ef631fdf-7d50-4a08-99bb-9a8e14ead2fa"/>
+  <img alt="React" title="React" width="65" height="auto" src="https://github.com/user-attachments/assets/84990063-53df-4248-8706-56881bf5a0d7"/>
+  <img alt="MongoDB" title="MongoDB" width="55" height="auto" src="https://github.com/user-attachments/assets/a4917024-dd17-47de-b031-4c3994122950"/>
+  <img alt="MySQL" title="MySQL" width="55" height="auto" src="https://github.com/user-attachments/assets/fbed04ba-8f37-4eee-99d8-41baf31f6c76"/>
+  <img alt="Postman" title="Postman" width="55" height="auto" src="https://github.com/user-attachments/assets/57beb5ad-411d-46f2-9de3-3a4e82da7a7e"/>
+  <img alt="Express" title="Express" width="58" height="auto" src="https://github.com/user-attachments/assets/034a3ee6-bbf8-418b-b7b2-4e0738154fc5"/>
+  <img alt="Spring" title="Spring" width="58" height="auto" src="https://github.com/user-attachments/assets/7d8a0c96-0fb4-4900-a89f-452c74b1b5bf"/>
+</div>
+
+<!--
+  <img alt="Angular" title="Angular" width="55" height="auto" src="https://github.com/user-attachments/assets/9bca4aba-5e7c-4a7c-8058-2df9105dc9f6"/>
+-->
+
+<br/>
+
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SimulationOfMario&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimulationOfMario&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&custom_title=Most%20Used%20Langs%20in%20Public%20Repositories" height="150" alt="languages graph"  />
