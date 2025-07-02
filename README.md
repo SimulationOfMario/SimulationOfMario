@@ -2,7 +2,7 @@
 ### 👀 I’m mainly interested in create videogames and modding!
 ### 📖 I'm studying Software Engineering at [ETSI, UMA](https://www.uma.es/etsi-informatica/)
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/6e224bbf-9099-4a7b-adc4-1ec5226ed7ba" width="150" title="Outer Wilds">
   <img src="https://github.com/user-attachments/assets/9c4a2408-6c9a-45db-a503-cc5e804853c3" width="150" title="Call of Duty Black Ops 3 Zombies">
   <img src="https://github.com/user-attachments/assets/a696a7a6-fce0-4754-98a9-3cb0cbdd5168" width="150" title="Minecraft">
@@ -12,9 +12,15 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SimulationOfMario.SimulationOfMario&left_color=darkmagenta&right_color=orchid&left_text=You%20are%20traveler%20number:"  />
+</div>
+
+<br/>
+
 ## 📚 What I'm currently doing 📚
 - ### ⚙ Making my own game in [Godot](https://godotengine.org/) for my FDP!
-- ### 🚀 Making a game in [Unity](https://unity.com/) with a [friend](https://github.com/CreatorBeastGD)!
+- ### 🚀 Making a game in [Unity](https://unity.com/) with a [friend](https://github.com/CreatorBeastGD)! Check [here](https://github.com/Hap-Studio) for more!
 - ### ⛏️ [Minecraft Fabric Modding](https://fabricmc.net/)
 
 <br/>
@@ -39,10 +45,15 @@
 
 <br/>
 
+## 🛠️ Tools 🛠️
+<div style="display: flex; justify-content: center; align-items: center; gap: 1vw;">
+  Wait!
+</div>
+
 ---
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SimulationOfMario.SimulationOfMario&left_color=darkmagenta&right_color=orchid&left_text=Travelers:"  />
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SimulationOfMario&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimulationOfMario&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&custom_title=Most%20Used%20Langs%20in%20Public%20Repositories" height="150" alt="languages graph"  />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimulationOfMario&radius=20&theme=modern-lilac&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SimulationOfMario&radius=20&theme=modern-lilac&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
