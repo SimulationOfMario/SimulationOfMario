@@ -32,7 +32,7 @@
   </h2>
 </div>
 
-- ### ⚙ Making my own game in [Godot](https://godotengine.org/) for my FDP!
+- ### ⚙ I made my own game in [Godot](https://godotengine.org/) for my FDP!
 - ### 🚀 Making a game in [Unity](https://unity.com/) with a [friend](https://github.com/CreatorBeastGD)! Check [here](https://github.com/Hap-Studio) for more!
 - ### ⛏️ [Minecraft Fabric Modding](https://fabricmc.net/)
 
