@@ -48,6 +48,7 @@
 </div>
 
 - ### 🕹️ [Set Wars: Cardinal Bounds](https://simulationofdreams.itch.io/set-wars-cardinal-bounds) : This is my FPD, a videogame made in Godot!
+- #### 🚀 [Mortis Space Mission](https://github.com/Hap-Studio) : This project is a game made in Unity with a [friend](https://github.com/CreatorBeastGD)!
 - #### ☕ [My Life As A...](https://youtu.be/v6n0uqqxxk4?si=58_5z0NOVJnwoeUn) : This project was created/led by me in a group of 8 people using Unity!
 - #### 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
 
