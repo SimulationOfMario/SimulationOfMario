@@ -48,9 +48,12 @@
 </div>
 
 - ### 🕹️ [Set Wars: Cardinal Bounds](https://simulationofdreams.itch.io/set-wars-cardinal-bounds) : This is my FPD, a videogame made in Godot!
-- ### ☕ [My Life As A...](https://youtu.be/v6n0uqqxxk4?si=58_5z0NOVJnwoeUn) : This project was created/led by me in a group of 8 people using Unity!
-- ### 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
-- ### 📰 [laWiki](https://lawiki.es/) : This project was created/led by me in a group of 6 people using NextJS, Express & MongoDB!
+- #### ☕ [My Life As A...](https://youtu.be/v6n0uqqxxk4?si=58_5z0NOVJnwoeUn) : This project was created/led by me in a group of 8 people using Unity!
+- #### 🎰 [PokéRoll](https://pokeroll.es) : This project is created/led by me with four friends using React!
+
+<!--
+- #### 📰 [laWiki](https://lawiki.es/) : This project was created/led by me in a group of 6 people using NextJS, Express & MongoDB!
+-->
 
 <br/>
 
