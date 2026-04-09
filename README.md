@@ -1,5 +1,14 @@
 <div align="center">
   <img src="https://gradient-svg-generator.vercel.app/api/svg?text=Simulation+of+Mario&height=120&gradientType=neuralStorm&duration=15s&color0=000000&color1=300030&color2=400040&color3=700070&color4=ff6cff&color5=ff6cff&color6=ff6cff&color7=ff6cff&color8=700070&color9=400040&color10=300030&color11=000000"/>
+  
+  <div align="center" style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap; align-items: center;">
+    <a href="https://buymeacoffee.com/simulationofmario"><img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" style="height: 2em;"></a>
+    <a href="https://simulationofdreams.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" style="height: 2em;"></a>
+    <a href="https://modrinth.com/user/SilentAutopsy"><img src="https://img.shields.io/badge/Modrinth-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" style="height: 2em;"></a>
+    <a href="https://www.curseforge.com/members/silentautopsy"><img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" style="height: 2em;"></a>
+    <a href="https://www.youtube.com/@SimulationOfDreams"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="height: 2em;"></a>
+  </div>
+  
   <h3>
     👀 I’m mainly interested in create videogames and modding!
   </h3>
@@ -9,6 +18,7 @@
   <h3>
     🎮 Currently studying the <a href="https://www.mastervideojuegos.uma.es">Master in Videogame Creation (XII edition, UMA)</a>
   </h3>
+  
 </div>
 
 <div align="center">
@@ -28,22 +38,8 @@
 <br/>
 
 <div align="center">
-  <h2>🔗 My Links 🔗</h2>
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap; align-items: center;">
-  <a href="https://buymeacoffee.com/simulationofmario"><img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" style="height: 2em;"></a>
-  <a href="https://simulationofdreams.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" style="height: 2em;"></a>
-  <a href="https://modrinth.com/user/SilentAutopsy"><img src="https://img.shields.io/badge/Modrinth-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" style="height: 2em;"></a>
-  <a href="https://www.curseforge.com/members/silentautopsy"><img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" style="height: 2em;"></a>
-  <a href="https://www.youtube.com/@SimulationOfDreams"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="height: 2em;"></a>
-</div>
-
-<br/>
-
-<div align="center">
   <h2>
-    🏆 My Projects 🏆
+    🏆 (Some) Projects 🏆
   </h2>
 </div>
 
