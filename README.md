@@ -25,6 +25,7 @@
   <img src="https://github.com/user-attachments/assets/6e224bbf-9099-4a7b-adc4-1ec5226ed7ba" width="150" title="Outer Wilds">
   <img src="https://github.com/user-attachments/assets/9c4a2408-6c9a-45db-a503-cc5e804853c3" width="150" title="Call of Duty Black Ops 3 Zombies">
   <img src="https://github.com/user-attachments/assets/a696a7a6-fce0-4754-98a9-3cb0cbdd5168" width="150" title="Minecraft">
+  <img src="https://github.com/user-attachments/assets/e82e2d1c-3909-4cc4-800a-5836e30d0418" width="150" title="Rain World">
   <img src="https://github.com/user-attachments/assets/6f1b11a5-8b96-49df-b0cf-dbeae19912c0" width="150" title="Crash Bandicoot N.Sane Trilogy">
   <img src="https://github.com/user-attachments/assets/e044c1fa-956d-4203-8638-2210eff0a8c0" width="150" title="Geomtry Dash: Black Blizzard Level">
 </div>
@@ -54,6 +55,7 @@
 
 <br/>
 
+<!--
 <div align="center">
   <h2>
     🧠 Languages 🧠
@@ -96,7 +98,7 @@
 </div>
 
 <br/>
-
+-->
 ---
 
 <div align="center">
