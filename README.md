@@ -4,9 +4,9 @@
   <div align="center" style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap; align-items: center;">
     <a href="https://buymeacoffee.com/simulationofmario"><img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" style="height: 2em;"></a>
     <a href="https://simulationofdreams.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" style="height: 2em;"></a>
+    <a href="https://www.youtube.com/@SimulationOfDreams"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="height: 2em;"></a>
     <a href="https://modrinth.com/user/SilentAutopsy"><img src="https://img.shields.io/badge/Modrinth-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" style="height: 2em;"></a>
     <a href="https://www.curseforge.com/members/silentautopsy"><img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge" style="height: 2em;"></a>
-    <a href="https://www.youtube.com/@SimulationOfDreams"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="height: 2em;"></a>
   </div>
   
   <h3>
