@@ -18,8 +18,13 @@
   <h3>
     🎮 Currently studying the <a href="https://www.mastervideojuegos.uma.es">Master in Videogame Creation (XII edition, UMA)</a>
   </h3>
-  
+
+   <div align="center" style="display: flex; justify-content: center; gap: 1em; flex-wrap: wrap; align-items: center;">
+    <a href="https://simulationofmario.github.io/SimulationOfMario/CV.pdf"><img src="https://img.shields.io/badge/My%20CV-00b79e?style=for-the-badge&labelColor=red" alt="My CV" style="height: 3em;"></a>
+  </div>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6e224bbf-9099-4a7b-adc4-1ec5226ed7ba" width="125" title="Outer Wilds">
